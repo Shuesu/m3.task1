@@ -1,0 +1,11 @@
+.field {
+	display: grid;
+	grid-template-columns: 100px 100px 100px;
+	gap: 10px;
+	justify-content: center;
+	margin-bottom: 30px;
+}
+
+.cell {
+	height: 100px;
+}
